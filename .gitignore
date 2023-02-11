@@ -13,3 +13,9 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+__pycache__
+.mypy_cache
+env
+
+out.log
